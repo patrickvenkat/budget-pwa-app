@@ -1,4 +1,4 @@
-loadImages();
+// loadImages();
 
 function createEl(htmlString = "", className) {
   const el = document.createElement(htmlString);
