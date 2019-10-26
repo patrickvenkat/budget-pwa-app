@@ -1,3 +1,6 @@
+# Turned the Budget App into a progressive web app. The remaining functionality of the app remains the same.
+
+
 # Mini Project
 
 In this activity, you will implement IndexedDB so the budget tracker persists data. Write all of your IndexedDB code in `public/db.js`.
